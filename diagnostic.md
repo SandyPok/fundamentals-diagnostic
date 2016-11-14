@@ -16,13 +16,13 @@ Graces-MacBook-Pro:try grace$
 
 What is the full path to the current directory?
 
-_Replace this text with your answer._
+/Users/Frontline8/wdi/diagnostics/fundamentals-diagnostic/diagnostic.md
 
 ## Question 2
 
 Describe GitHub, **briefly** in your own words.
 
-_Replace this text with your answer._
+It is a web-based Git repository hosting service where you can build software.
 
 ## Question 3
 
@@ -32,7 +32,7 @@ _Replace this text with your answer._
 
 Is the value of this expression `true` or `false`?  Explain your answer.
 
-_Replace this text with your answer._
+True - false && true = returns true
 
 ## Question 4
 
@@ -45,11 +45,14 @@ while (x < 5) {
 
 How many times does the loop run?  What's the value of `x` after the while loop?
 
-_Replace this text with your answer._
+5
 
 ## Question 5
 
 ```js
+
+
+// ///meesage fr testing
 var strangeAdd = function(a, b) {
   if (a > 0 || b > 0) {
     return a + b;
